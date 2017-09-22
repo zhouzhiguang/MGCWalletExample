@@ -18,6 +18,7 @@ public class MogenWalletApplication extends Application {
         //初始化网络请求
         NohttpClient.init(this);
         //这里rxbus 回调在主线程里面
+
         RxBus.setMainScheduler(AndroidSchedulers.mainThread());
     }
 }
