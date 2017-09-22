@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MGCWalletExample.iml" filepath="$PROJECT_DIR$/MGCWalletExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mogen/mogen.iml" filepath="$PROJECT_DIR$/mogen/mogen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mogenrequest/mogenrequest.iml" filepath="$PROJECT_DIR$/mogenrequest/mogenrequest.iml" />
+    </modules>
+  </component>
+</project>
